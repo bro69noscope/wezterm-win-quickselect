@@ -1,3 +1,7 @@
+> **Fork of [wezterm/wezterm](https://github.com/wezterm/wezterm)** with
+> [PR #7699](https://github.com/wezterm/wezterm/pull/7699) applied (not yet merged upstream as of
+> Nov 21 2026).
+
 # Wez's Terminal
 
 <img height="128" alt="WezTerm Icon" src="https://raw.githubusercontent.com/wezterm/wezterm/main/assets/icon/wezterm-icon.svg" align="left"> *A GPU-accelerated cross-platform terminal emulator and multiplexer written by <a href="https://github.com/wez">@wez</a> and implemented in <a href="https://www.rust-lang.org/">Rust</a>*
